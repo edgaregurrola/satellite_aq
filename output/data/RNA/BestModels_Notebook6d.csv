@@ -1,0 +1,11 @@
+,model,6b_model,6c_model,variable,result
+0,model9,model1254,model59,mse_train,71.80089244402642
+1,model9,model1254,model59,mae_train,5.612536435222612
+2,model9,model1254,model59,rmse_train,8.473540726521966
+3,model130,model732,model111,mse_test,125.69293391488634
+4,model130,model732,model111,mae_test,7.36714177481501
+5,model130,model732,model111,rmse_test,11.211286006292335
+6,model9,model1254,model59,acc_train,0.8913855473561256
+7,model9,model1254,model59,ia_train,0.97
+8,model187,model732,model149,acc_test,0.8084446880417095
+9,model74,model788,model255,ia_test,0.948
