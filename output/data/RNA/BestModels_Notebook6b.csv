@@ -1,0 +1,11 @@
+,model,variable,result
+0,model1209,mse_train,76.078
+1,model1254,mae_train,5.864
+2,model1209,rmse_train,8.722
+3,model732,mse_test,130.45
+4,model737,mae_test,7.472
+5,model732,rmse_test,11.421
+6,model1209,acc_train,0.886
+7,model1230,ia_train,0.97
+8,model732,acc_test,0.796
+9,model788,ia_test,0.944
